@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1716434710 source:c:\users\asus\onedrive\documents\ltnc\demo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_ttf.h>
+
